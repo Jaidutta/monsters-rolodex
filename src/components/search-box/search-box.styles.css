@@ -1,0 +1,19 @@
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 200px;
+  line-height: 30px;
+  margin-bottom: 10px;
+  background: rgb(128, 208, 240);
+  color: black;
+  font-weight: 900;
+  border-radius: 10px;
+}
+
+::placeholder{
+  color: rgb(19, 97, 107);
+  font-weight: 900px;
+  font-size: 18px;
+}
